@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import ScrollToTop from "../components/ScrollToTop";
-import LandingApp from "../../pages/landing/LandingApp";
+import LandingApp from "../pages/landing/LandingApp";
 // En esta función se declaran las rutas de las páginas que vayamos a usar
 export function Router() {
     return (
