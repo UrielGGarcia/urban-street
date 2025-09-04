@@ -1,2 +1,9 @@
 /* Se declara para poder usar tailwind*/
 @import "tailwindcss";
+
+
+@tailwind utilities;
+
+html, body {
+  @apply bg-[#080c0e] text-white;
+}

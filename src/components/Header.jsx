@@ -2,14 +2,14 @@
 
 export function Header() {
     return (
-        <div className="fixed w-full top-0 flex border items-center justify-between">
+        <div className="fixed w-full top-0 flex bg-[#030506] items-center justify-between">
             <div className="flex items-center ml-10  ">
                 <img src="/logosinfondo.png" alt="" className="w-30 " />
                 <h1 className="font-serif text-white font-semibold text-4xl">UrbanStreet</h1>
             </div>
             <div className="flex text-white underline gap-10  -mr-40">
-                <a href="">INICIO</a>
-                <a href="">PRODUCTOS</a>
+                <a href="/">INICIO</a>
+                <a href="">COLECCIONES</a>
                 <a href="">SOBRE NOSOTROS</a>
                 <a href="">CONTACTO</a>
             </div>
@@ -22,7 +22,7 @@ export function Header() {
                 </div>
                 <button >
                     <svg
-                        className="hover:scale-110 cursor-pointer"
+                        className="hover:scale-110 transition-transform cursor-pointer"
                         xmlns="http://www.w3.org/2000/svg"
                         fill="white"
                         viewBox="0 0 24 24"

@@ -14,6 +14,9 @@ Un **catálogo web moderno** desarrollado con **React**, **Tailwind CSS** y **Re
 ✅ **Diseño responsive** gracias a Tailwind CSS.  
 ✅ **Rutas dinámicas** con React Router DOM.
 
+## Vista previa
+![alt text](public/preview.gif)
+
 ---
 
 ## 🛠️ Tecnologías utilizadas
@@ -43,3 +46,4 @@ Un **catálogo web moderno** desarrollado con **React**, **Tailwind CSS** y **Re
 3. **Levantar el servidor de desarollo**
    ```
    npm run dev
+
