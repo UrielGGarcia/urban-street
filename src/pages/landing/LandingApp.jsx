@@ -6,6 +6,7 @@ function LandingApp() {
             <h2>Agrega otro apartado</h2>
             <h4>hola</h4>
             <h2>Hola en h2</h2>
+            <h3>hola</h3>
         </div>
     );
 }
