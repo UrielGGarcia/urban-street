@@ -1,5 +1,5 @@
 # Guía para Contribuir
----
+
 1. **Clonar el repositorio**
 Una vez clonado el repositorio, lo siguiente.
 
